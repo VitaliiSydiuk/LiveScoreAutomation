@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class TestClass3 extends BaseSetup
 {
-//    HomePage homePage=new HomePage();
+//    HomePage homePage=new HomePage();//
 //
 //    @Test(groups = {"Sanity"})
 //    public void LoginNegative(){
