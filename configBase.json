@@ -1,0 +1,14 @@
+{
+	"Environment": "PreProd",
+	"TargetOS": "Android",
+	"Device":
+	{
+		"Name": "Device",
+		"OsVersion": "",
+		"IsLocal": "true",
+		"Reinstall":"false",
+		"IsPrivate":"true",
+		"IsPhoneOnly":"true",
+		"IsTabletOnly":"false"
+	}
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ScreenShots Collection" verbose="1" configfailurepolicy="continue">
+    <test name="Screenshots">
+        <groups>
+            <run>
+                <include name="Screenshoter"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="gamesys.automation.*"/>
+        </packages>
+    </test>
+</suite>

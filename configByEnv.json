@@ -1,0 +1,28 @@
+{
+  "Test": {
+    "User": {
+      "Name": "username1",
+      "Password": "123123"
+    }
+  },
+  "Dev": {
+    "User": {
+      "Name": "username1",
+      "Password": "123123"
+    },
+    "User": {
+      "Name": "username2",
+      "Password": "123123"
+    }
+  },
+  "PreProd": {
+    "User": {
+      "Name": "username1",
+      "Password": "123123"
+    },
+    "User": {
+      "Name": "username2",
+      "Password": "123123"
+    }
+  }
+}

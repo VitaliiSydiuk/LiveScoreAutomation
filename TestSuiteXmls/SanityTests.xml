@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SanityTests" verbose="1" configfailurepolicy="continue">
+<test name="AllMainScreens">
+    <groups>
+        <run>
+            <include name="Sanity"/>
+        </run>
+    </groups>
+    <packages>
+        <package name="gamesys.automation.*"/>
+    </packages>
+</test>
+</suite>
+
